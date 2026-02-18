@@ -1,7 +1,12 @@
 # Retos-Cientificos-
 
-INTEGRANGES:
+# INTEGRANGES:
 - Omar David Cote Chacon.
 - Jesús Leonardo Quintero Perez
 - Jeicor Robles
+
+# Experimento: Cohete propulsión
+-
+
+
 
